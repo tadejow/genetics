@@ -1,2 +1,2 @@
 # genetics
-This is a repository for projects concerning genetic code issues
+This is a repository for my genetics projects
